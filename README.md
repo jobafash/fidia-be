@@ -6,7 +6,7 @@ It has a GraphQL architecture, and leverages the following tools/technologies
 - Node/Express
 - MongoDB/Mongoose
 - Apollo GraphQL(https://www.apollographql.com/docs/apollo-server/)
-- Mailgun
+- Mailgun(Free plan connects to only one email without adding card details)
 - Mocha/Chai(with Sinon)
 
 The API is dpeloyed at https://fidia-be.herokuapp.com/graphql
