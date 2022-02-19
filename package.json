@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "heroku-prebuild": "npm i -f",
     "build": "rimraf dist && tsc",
     "dev": "nodemon",
     "start": "node dist/app.js",
